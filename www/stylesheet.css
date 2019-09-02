@@ -1,0 +1,38 @@
+.info-box-text{
+	white-space : normal;
+	text-transform : none;
+	font-size : 0.8em;
+}
+
+.info-box-number{
+	text-align : center;
+}
+
+.info-box-icon{
+
+}
+
+.row.info-row{
+
+	
+}
+
+.info-box{
+
+	
+}
+
+h3{
+	text-align : center;
+	color : #ffffff;
+}
+
+
+.small-box p{
+	text-align : center;
+}
+
+body {
+    background-color: #2d3741;
+}
+
